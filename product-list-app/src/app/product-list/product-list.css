@@ -1,0 +1,11 @@
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px 0;
+  max-width: 400px;
+}
+img {
+  display: block;
+  margin-bottom: 8px;
+} 
